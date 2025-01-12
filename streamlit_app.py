@@ -1,4 +1,4 @@
-import streamlit_app as st
+import streamlit as st
 import random
 import time
 import rag_pipeline
